@@ -242,7 +242,7 @@
 			@include vendor('align-self', 'center');
 			@include vendor('flex-grow', '1');
 			@include vendor('flex-shrink', '1');
-			width: 65%;
+			width: 50%;
 			max-width: _size(inner);
 			margin: 0 auto;
 		}
@@ -250,7 +250,7 @@
 		.image {
 			@include vendor('flex-grow', '0');
 			@include vendor('flex-shrink', '0');
-			width: 35%;
+			width: 50%;
 			min-width: 25rem;
 			border-radius: 0;
 

@@ -6334,7 +6334,7 @@
 				width: 100%;
 				height: 100%;
 				background-color: rgba(0, 0, 0, 0.5);
-				opacity: 0;
+				opacity: 1;
 				padding: 2rem;
 				z-index: 1;
 				font-size: 0.8rem;
@@ -6717,7 +6717,7 @@
 				width: 100%;
 				height: 100%;
 				background-color: rgba(0, 0, 0, 0.5);
-				opacity: 0;
+				opacity: 1;
 				padding: 3rem;
 				z-index: 1;
 				font-size: 0.8rem;
